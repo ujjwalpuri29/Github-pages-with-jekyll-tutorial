@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Ujjwal Puri"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I'm just trying out Github Pages
